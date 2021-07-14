@@ -9,7 +9,7 @@
 <br></br>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/React/React-original-wordmark.svg" alt="React" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androis/android-original-wordmark.svg" alt="android" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/TypeScript/TypeScript-original-wordmark.svg" alt="TypeScript" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/JavaScript/JavaScript-original-wordmark.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/CSS/CSS-original-wordmark.svg" alt="css" width="50" height="50"/>
