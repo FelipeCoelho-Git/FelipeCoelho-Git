@@ -1,5 +1,5 @@
 <h1 align="center">What's Up <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Coelho.</h1>
-<h3 align="center">I'm a Web Developer student, looking my first job as a dev.</h3>
+<h3 align="center">I'm a React developer, currently working with React, TypeScript, Material UI and Azure devops.</h3>
 <br></br>
 
 - 🔭 I’m currently looking for a developer job.
