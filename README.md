@@ -2,8 +2,8 @@
 <h3 align="center">I'm a React developer, currently working with React, TypeScript, Material UI and Azure devops.</h3>
 <br></br>
 
-- 🔭 I’m currently looking for a developer job.
-- 🌱 I’m currently learning React, CSS, Typescript, JavaScript.
+- 🔭 I always looking to improve my skills and knowledge.
+- 🌱 I’m currently learning about some tecnolgies like Next and Redux.
 - 📫 How to reach me: www.linkedin.com/in/Felipe-Coelho-814bbb208
 
 <br></br>
